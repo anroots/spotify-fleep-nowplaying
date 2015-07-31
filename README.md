@@ -1,5 +1,9 @@
 # Now Playing Plugin For Spotify + Fleep
 
+[![Scrutinizer](https://img.shields.io/scrutinizer/g/anroots/spotify-fleep-nowplaying.svg)](https://scrutinizer-ci.com/g/anroots/spotify-fleep-nowplaying)
+[![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/anroots/spotify-fleep-nowplaying.svg)](https://scrutinizer-ci.com/g/anroots/spotify-fleep-nowplaying)
+[![Travis](https://img.shields.io/travis/anroots/spotify-fleep-nowplaying.svg)]()
+
 Appends the currently playing track name from Spotify to your [Fleep.io](https://fleep.io) display name.
 
 Original script by [Erik Nosar](https://github.com/enosar/xchat-spotify-np) for XChat. Modified to work with Fleep.
