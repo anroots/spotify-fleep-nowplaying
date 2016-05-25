@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Sets currently playing Spotify track as Fleep.io display name.
 """
